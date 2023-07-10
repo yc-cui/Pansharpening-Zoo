@@ -1,5 +1,6 @@
-# A collection of deep learning based pansharpening models
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/><img src="https://img.shields.io/badge/Supervised-8-FF6F00" alt="sup"/><img src="https://img.shields.io/badge/Unsupervised-5-FF6F00" alt="unsup"/>
+# Pansharpening-Zoo
+
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>  <img src="https://img.shields.io/badge/Supervised-8-FF6F00" alt="sup"/>  <img src="https://img.shields.io/badge/Unsupervised-5-FF6F00" alt="unsup"/>
 
 # 	Supervised
 
