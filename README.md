@@ -52,7 +52,7 @@
   
 + `[INFORM FUSION 2020 Pan-GAN]` [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1566253520302591) [[code]](https://github.com/yuwei998/PanGAN) J. Ma, W. Yu, C. Chen, P. Liang, X. Guo, and J. Jiang, “Pan-GAN: An unsupervised pan-sharpening method for remote sensing image fusion,” Information Fusion, vol. 62, pp. 110–120, 2020, doi: https://doi.org/10.1016/j.inffus.2020.04.006.
 
-  <img src="README.assets/image-20230710000957385.png" alt="image-20230710000957385" style="width:40%;" />
+  <div align=center><img src="README.assets/image-20230710000957385.png" alt="image-20230710000957385" style="width:40%;" /></div>
 
 + `[J-STARS 2020]` [[paper]](https://ieeexplore.ieee.org/document/9136909) [code] S. Luo, S. Zhou, Y. Feng and J. Xie, "Pansharpening via Unsupervised Convolutional Neural Networks," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 4295-4310, 2020, doi: 10.1109/JSTARS.2020.3008047. 
 
