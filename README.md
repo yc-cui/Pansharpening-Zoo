@@ -1,6 +1,6 @@
 # Pansharpening-Zoo
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>  <img src="https://img.shields.io/badge/Supervised-8-FF6F00" alt="sup"/>  <img src="https://img.shields.io/badge/Unsupervised-5-FF6F00" alt="unsup"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>  <img src="https://img.shields.io/badge/Supervised-13-FF6F00" alt="sup"/>  <img src="https://img.shields.io/badge/Unsupervised-5-FF6F00" alt="unsup"/>
 
 # 	Supervised
 
@@ -35,7 +35,26 @@
 - `[TGRS 2022 DIP-HyperKite]` [[paper]](https://ieeexplore.ieee.org/document/9664535) [[code]](https://github.com/wgcban/DIP-HyperKite) W. G. C. Bandara, J. M. J. Valanarasu and V. M. Patel, "Hyperspectral Pansharpening Based on Improved Deep Image Prior and Residual Reconstruction," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-16, 2022, Art no. 5520816, doi: 10.1109/TGRS.2021.3139292.  
 
   <img src="README.assets/image-20230710002526872.png" alt="image-20230710002526872" style="zoom:40%;" />
+  
+- `[CVPR 2022 MDCUN]` [[paper]](https://ieeexplore.ieee.org/document/9880283) [[code]](https://github.com/manman1995/Awaresome-pansharpening) [[code]](https://github.com/yggame/MDCUN) G. Yang, M. Zhou, K. Yan, A. Liu, X. Fu and F. Wang, "Memory-augmented Deep Conditional Unfolding Network for Pansharpening," 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, 2022, pp. 1778-1787, doi: 10.1109/CVPR52688.2022.00183.
 
+  <img src="README.assets/image-20230711183018767.png" alt="image-20230711183018767" style="zoom:30%;" />
+  
+- `[CVPR 2022 MutInf]` [[paper]](https://ieeexplore.ieee.org/document/9880283) [[code]](https://github.com/manman1995/Awaresome-pansharpening) [[code]](https://github.com/manman1995/Mutual-Information-driven-Pan-sharpening) M. Zhou, K. Yan, J. Huang, Z. Yang, X. Fu and F. Zhao, "Mutual Information-driven Pan-sharpening," 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, LA, USA, 2022, pp. 1788-1798, doi: 10.1109/CVPR52688.2022.00184.
+
+  <img src="README.assets/image-20230711184011543.png" alt="image-20230711184011543" style="zoom:50%;" />
+  
+- `[AAAI 2022 panformer]` [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20267) [[code]](https://github.com/manman1995/Awaresome-pansharpening) Zhou, M., Huang, J., Fang, Y., Fu, X., & Liu, A. (2022). Pan-Sharpening with Customized Transformer and Invertible Neural Network. Proceedings of the AAAI Conference on Artificial Intelligence, 36(3), 3553-3561. https://doi.org/10.1609/aaai.v36i3.20267
+
+  <img src="README.assets/image-20230711184830928.png" alt="image-20230711184830928" style="zoom:40%;" />
+
+- `[ICCV 2021 DCFNet]` [[paper]](https://ieeexplore.ieee.org/document/9710135) [[code]](https://github.com/XiaoXiao-Woo/UDL) X. Wu, T. -Z. Huang, L. -J. Deng and T. -J. Zhang, "Dynamic Cross Feature Fusion for Remote Sensing Pansharpening," 2021 IEEE/CVF International Conference on Computer Vision (ICCV), Montreal, QC, Canada, 2021, pp. 14667-14676, doi: 10.1109/ICCV48922.2021.01442.
+
+  <img src="README.assets/image-20230711190014818.png" alt="image-20230711190014818" style="zoom:40%;" />
+
+- `[ECCV 2022 SFIIN]` [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_16) [[code]](https://github.com/manman1995/Awaresome-pansharpening) Zhou, M. et al. (2022). Spatial-Frequency Domain Information Integration for Pan-Sharpening. In: Avidan, S., Brostow, G., Cissé, M., Farinella, G.M., Hassner, T. (eds) Computer Vision – ECCV 2022. ECCV 2022. Lecture Notes in Computer Science, vol 13678. Springer, Cham. https://doi.org/10.1007/978-3-031-19797-0_16
+
+  <img src="README.assets/image-20230711191224653.png" alt="image-20230711191224653" style="zoom:45%;" />
 # Unsupervised
 
 + `[TGRS 2022 Z-PNN]` [[paper]](https://ieeexplore.ieee.org/document/9745494) [[code]](https://github.com/matciotola/Z-PNN) M. Ciotola, S. Vitale, A. Mazza, G. Poggi and G. Scarpa, "Pansharpening by Convolutional Neural Networks in the Full Resolution Framework," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-17, 2022, Art no. 5408717, doi: 10.1109/TGRS.2022.3163887. 
