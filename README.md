@@ -55,6 +55,27 @@
 - `[ECCV 2022 SFIIN]` [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_16) [[code]](https://github.com/manman1995/Awaresome-pansharpening) Zhou, M. et al. (2022). Spatial-Frequency Domain Information Integration for Pan-Sharpening. In: Avidan, S., Brostow, G., Cissé, M., Farinella, G.M., Hassner, T. (eds) Computer Vision – ECCV 2022. ECCV 2022. Lecture Notes in Computer Science, vol 13678. Springer, Cham. https://doi.org/10.1007/978-3-031-19797-0_16
 
   <img src="README.assets/image-20230711191224653.png" alt="image-20230711191224653" style="zoom:45%;" />
+
+- `[CVPR 2019 MHF-net]` [[paper]](https://ieeexplore.ieee.org/document/8953470) [[code]](https://github.com/XieQi2015/MHF-net) Q. Xie, M. Zhou, Q. Zhao, D. Meng, W. Zuo and Z. Xu, "Multispectral and Hyperspectral Image Fusion by MS/HS Fusion Net," 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, 2019, pp. 1585-1594, doi: 10.1109/CVPR.2019.00168.
+
+  <img src="README.assets/image-20230712101925876.png" alt="image-20230712101925876" style="zoom:40%;" />
+  
+- `[J-STARS 2020 MIPSM]` [[paper]](https://ieeexplore.ieee.org/document/9042292) [[code]] L. Liu et al., "Shallow–Deep Convolutional Network and Spectral-Discrimination-Based Detail Injection for Multispectral Imagery Pan-Sharpening," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 1772-1783, 2020, doi: 10.1109/JSTARS.2020.2981695.
+
+  <img src="README.assets/image-20230712112817214.png" alt="image-20230712112817214" style="zoom:40%;" />
+  
+- `[TNNLS 2021]` [[paper]](https://ieeexplore.ieee.org/document/9106801) [[code]] X. Fu, W. Wang, Y. Huang, X. Ding and J. Paisley, "Deep Multiscale Detail Networks for Multiband Spectral Image Sharpening," in IEEE Transactions on Neural Networks and Learning Systems, vol. 32, no. 5, pp. 2090-2104, May 2021, doi: 10.1109/TNNLS.2020.2996498.
+
+  <img src="README.assets/image-20230712152734235.png" alt="image-20230712152734235" style="zoom:50%;" />
+  
+- `[TGRS 2021]` [[paper]](https://ieeexplore.ieee.org/document/9240949) [[code]] L. -J. Deng, G. Vivone, C. Jin and J. Chanussot, "Detail Injection-Based Deep Convolutional Neural Networks for Pansharpening," in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 8, pp. 6995-7010, Aug. 2021, doi: 10.1109/TGRS.2020.3031366.
+
+  <img src="README.assets/image-20230712152809268.png" alt="image-20230712152809268" style="zoom:50%;" />
+  
+- `[RS 2016 PNN]` [[paper]](https://www.mdpi.com/2072-4292/8/7/594) [[code]] Masi, G.; Cozzolino, D.; Verdoliva, L.; Scarpa, G. Pansharpening by Convolutional Neural Networks. Remote Sens. 2016, 8, 594. https://doi.org/10.3390/rs8070594
+
+  <img src="README.assets/image-20230712152651956.png" alt="image-20230712152651956" style="zoom:50%;" />
+
 # Unsupervised
 
 + `[TGRS 2022 Z-PNN]` [[paper]](https://ieeexplore.ieee.org/document/9745494) [[code]](https://github.com/matciotola/Z-PNN) M. Ciotola, S. Vitale, A. Mazza, G. Poggi and G. Scarpa, "Pansharpening by Convolutional Neural Networks in the Full Resolution Framework," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-17, 2022, Art no. 5408717, doi: 10.1109/TGRS.2022.3163887. 
