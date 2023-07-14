@@ -1,6 +1,6 @@
 # Pansharpening-Zoo
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>  <img src="https://img.shields.io/badge/Supervised-13-FF6F00" alt="sup"/>  <img src="https://img.shields.io/badge/Unsupervised-5-FF6F00" alt="unsup"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/>  <img src="https://img.shields.io/badge/Supervised-21-FF6F00" alt="sup"/>  <img src="https://img.shields.io/badge/Unsupervised-8-FF6F00" alt="unsup"/>
 
 # 	Supervised
 
@@ -75,7 +75,21 @@
 - `[RS 2016 PNN]` [[paper]](https://www.mdpi.com/2072-4292/8/7/594) [[code]] Masi, G.; Cozzolino, D.; Verdoliva, L.; Scarpa, G. Pansharpening by Convolutional Neural Networks. Remote Sens. 2016, 8, 594. https://doi.org/10.3390/rs8070594
 
   <img src="README.assets/image-20230712152651956.png" alt="image-20230712152651956" style="zoom:50%;" />
+  
+- `[TGRS 2022 DR-Net]` [[paper]](https://ieeexplore.ieee.org/document/9715116/) [[code]] X. Su, J. Li and Z. Hua, "Transformer-Based Regression Network for Pansharpening Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-23, 2022, Art no. 5407423, doi: 10.1109/TGRS.2022.3152425.
 
+  <img src="README.assets/image-20230714091517675.png" alt="image-20230714091517675" style="zoom:40%;" />
+
+
+- `[ICME 2022 PanFormer]` [[paper]](https://ieeexplore.ieee.org/document/9859770/) [[code]](https://github.com/zhysora/PanFormer) H. Zhou, Q. Liu and Y. Wang, "PanFormer: A Transformer Based Model for Pan-Sharpening," 2022 IEEE International Conference on Multimedia and Expo (ICME), Taipei, Taiwan, 2022, pp. 1-6, doi: 10.1109/ICME52920.2022.9859770.
+
+  <img src="README.assets/image-20230714091826338.png" alt="image-20230714091826338" style="zoom:25%;" />
+
+- `[CVPRW 2022 DII]` [[paper]](https://ieeexplore.ieee.org/document/9857173) [[code]] J. Gao, J. Li, X. Su, M. Jiang and Q. Yuan, "Deep Image Interpolation: A Unified Unsupervised Framework for Pansharpening," 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), New Orleans, LA, USA, 2022, pp. 608-617, doi: 10.1109/CVPRW56347.2022.00076.
+
+  <img src="README.assets/image-20230714092940802.png" alt="image-20230714092940802" style="zoom:50%;" />
+  
+  
 # Unsupervised
 
 + `[TGRS 2022 Z-PNN]` [[paper]](https://ieeexplore.ieee.org/document/9745494) [[code]](https://github.com/matciotola/Z-PNN) M. Ciotola, S. Vitale, A. Mazza, G. Poggi and G. Scarpa, "Pansharpening by Convolutional Neural Networks in the Full Resolution Framework," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-17, 2022, Art no. 5408717, doi: 10.1109/TGRS.2022.3163887. 
@@ -98,3 +112,15 @@
 
   <img src="README.assets/image-20230702115714726.png" alt="image-20230702115714726" style="zoom:30%;" />
 
++ `[GRSL 2022 MetaPan]` [[paper]](https://ieeexplore.ieee.org/document/9854889) [[code]] D. Wang, P. Zhang, Y. Bai and Y. Li, "MetaPan: Unsupervised Adaptation With Meta-Learning for Multispectral Pansharpening," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 5513505, doi: 10.1109/LGRS.2022.3198141.
+
+<img src="README.assets/image-20230714092242761.png" alt="image-20230714092242761" style="width:30%;" />
+
++ `[TGRS 2020 UP-SAM]` [[paper]](https://ieeexplore.ieee.org/document/9146721) [[code]] Y. Qu, R. K. Baghbaderani, H. Qi and C. Kwan, "Unsupervised Pansharpening Based on Self-Attention Mechanism," in IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 4, pp. 3192-3208, April 2021, doi: 10.1109/TGRS.2020.3009207.
+
+<img src="README.assets/image-20230714092500995.png" alt="image-20230714092500995" style="width:30%;" />
+
+
++ `[CVPR 2020 UAL]` [[paper]](https://ieeexplore.ieee.org/document/9157441) [[code]] L. Zhang, J. Nie, W. Wei, Y. Zhang, S. Liao and L. Shao, "Unsupervised Adaptation Learning for Hyperspectral Imagery Super-Resolution," 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, 2020, pp. 3070-3079, doi: 10.1109/CVPR42600.2020.00314.
+
+  <img src="README.assets/image-20230714092752165.png" alt="image-20230714092752165" style="zoom:50%;" />
